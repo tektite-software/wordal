@@ -1,5 +1,5 @@
 # Wordal
-You've tried octal, you've tried hexadecimal, now try wordal!  It's not a Pokémon, it's a word-based numeral system with a base of 65,536.  In other words, Wordal is a dictionary containing precisely 2<sup>16</sup> + 1 words, allowing any arbitrary data to be expressed with a memorable English word for every 16 bits.
+You've tried octal, you've tried hexadecimal, now try wordal!  It's not a Pokémon, it's a word-based numeral system with a base of 65,536.  In other words, Wordal is a dictionary containing precisely 2<sup>16</sup> words, allowing any arbitrary data to be expressed with a memorable English word for every 16 bits.
 
 ## Implementations
 
